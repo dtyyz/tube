@@ -3,6 +3,10 @@
 the internet is a series of **tube**s  
 this is just one of them
 
+## note
+this was made before Go 1.22's [routing enhancements](https://go.dev/blog/routing-enhancements)  
+and is largely obsolete now... *go* use that instead!
+
 ## features
  - regex routes
  - named url parameters
